@@ -1,0 +1,23 @@
+Name,Table,Uniqueness,Unique Count,Completeness,Score,Row Count,Null Count,Format Count,Overall Datatype,Dominant Datatype,Minimum,Maximum,Precision,Scale,Minimum Length,Maximum Length,Total Sum
+Organisationid,Gp Practises And Surgeries,100%,"9,847",100%,,"9,847",0,4,Integer,Integer,2915,3884965,7,0,4,7,"421,759,485"
+Organisationcode,Gp Practises And Surgeries,81.23%,"7,999",100%,,"9,847",0,3,Alphanumeric,Alphanumeric,A81001,Z00002,0,0,6,6,
+Organisationtype,Gp Practises And Surgeries,0.01%,1,100%,,"9,847",0,1,Alphanumeric,Alphanumeric,GP,GP,0,0,2,2,
+Subtype,Gp Practises And Surgeries,0.01%,1,100%,,"9,847",0,1,Alphanumeric,Alphanumeric,UNKNOWN,UNKNOWN,0,0,7,7,
+Organisationstatus,Gp Practises And Surgeries,0.01%,1,100%,,"9,847",0,1,Alphanumeric,Alphanumeric,Visible,Visible,0,0,7,7,
+Ispimsmanaged,Gp Practises And Surgeries,0.02%,2,100%,,"9,847",0,2,Alphanumeric,Alphanumeric,False,True,0,0,4,5,
+Isepsenabled,Gp Practises And Surgeries,0.02%,2,100%,,"9,847",0,2,Alphanumeric,Alphanumeric,False,True,0,0,4,5,
+Organisationname,Gp Practises And Surgeries,90.1%,"8,872",99.99%,,"9,846",1,"2,812",Alphanumeric,Alphanumeric,'The Practice @188',Zetland Medical Practice - Saltburn-By-The-Sea,0,0,4,96,
+Address1,Gp Practises And Surgeries,83.87%,"8,259",97.99%,,"9,649",198,"1,815",Alphanumeric,Alphanumeric,.,Zain Medical Centre,3,0,1,72,871
+Address2,Gp Practises And Surgeries,65.01%,"6,402",86.16%,,"8,484","1,363","1,125",Alphanumeric,Alphanumeric,",4 Newburn Road",Zachary Merton,3,0,3,55,656
+Address3,Gp Practises And Surgeries,33.42%,"3,291",85.61%,,"8,430","1,417",451,Alphanumeric,Alphanumeric,.,Youlgreave,0,0,1,40,
+City,Gp Practises And Surgeries,12.89%,"1,269",81.83%,,"8,058","1,789",247,Alphanumeric,Alphanumeric,.,Yoxford,0,0,1,34,
+County,Gp Practises And Surgeries,0.73%,72,16.56%,,"1,631","8,216",24,Alphanumeric,Null,Avon,Yorkshire(West Riding),0,0,4,22,
+Postcode,Gp Practises And Surgeries,88.59%,"8,723",99.97%,,"9,844",3,6,Alphanumeric,Alphanumeric,AL10 0BS,YO8 9NA,0,0,6,8,
+Latitude,Gp Practises And Surgeries,88.72%,"8,736",99.97%,,"9,844",3,9,Decimal,Decimal,49.912635803222656,57.15997314453125,17,15,10,18,"515,967.38"
+Longitude,Gp Practises And Surgeries,89.33%,"8,796",99.97%,,"9,844",3,18,Decimal,Decimal,-7.1613578796386719,1.7551214694976807,17,21,14,23,"-11,987.9"
+Parentodscode,Gp Practises And Surgeries,2.14%,211,100%,,"9,847",0,1,Alphanumeric,Alphanumeric,00C,99Q,0,0,3,3,
+Parentname,Gp Practises And Surgeries,2.14%,211,100%,,"9,847",0,110,Alphanumeric,Alphanumeric,"NHS Airedale, Wharfedale And Craven CCG",NHS Wyre Forest CCG,0,0,12,54,
+Phone,Gp Practises And Surgeries,93.52%,"9,209",98.81%,,"9,730",117,88,Alphanumeric,Alphanumeric,.,Main Sugery,11,0,1,39,"463,500,734,866"
+Email,Gp Practises And Surgeries,21.65%,"2,132",24.62%,,"2,424","7,423",855,Alphanumeric,Null,999agmc@gmail.com,zubair.qureshi@nhs.net,0,0,3,71,
+Website,Gp Practises And Surgeries,42.5%,"4,185",48.93%,,"4,818","5,029",810,Alphanumeric,Null,48 Maddock Drive,wwww.fairmoremedicalpractice.co.uk,0,0,11,100,
+Fax,Gp Practises And Surgeries,83.49%,"8,221",87.11%,,"8,578","1,269",43,Alphanumeric,Alphanumeric,-,N/A,10,0,1,19,"309,792,783,244"

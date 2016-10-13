@@ -1,0 +1,23 @@
+Name,Uniqueness,Completeness,Is a Sequence,Key Check,Rare Formats,Rare Values,Frequent Values,Short Values,Long Values,Missing Values,Negative Values,Low Amounts,High Amounts,Alphanumeric Completeness,Integer Completeness,Decimal Completeness,Date Completeness,Money Completeness,Format Count,Null Count,Minimum,Maximum,Least Common Value,Most Common Value,Minimum Length,Maximum Length
+Organisationid,100%,100%,,Key,,,,,Long Values,,,,High,0%,100%,0%,0%,0%,4,0,2915,3884965,2915,2915,4,7
+Organisationcode,81.23%,100%,,,Rare Formats,,Frequent,,,,,,,100%,0%,0%,0%,0%,3,0,A81001,Z00002,A81001,B82005,6,6
+Organisationtype,0.01%,100%,,,,,,,,,,,,100%,0%,0%,0%,0%,1,0,GP,GP,GP,GP,2,2
+Subtype,0.01%,100%,,,,,,,,,,,,100%,0%,0%,0%,0%,1,0,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,7,7
+Organisationstatus,0.01%,100%,,,,,,,,,,,,100%,0%,0%,0%,0%,1,0,Visible,Visible,Visible,Visible,7,7
+Ispimsmanaged,0.02%,100%,,,,,,,,,,,,100%,0%,0%,0%,0%,2,0,False,True,False,True,4,5
+Isepsenabled,0.02%,100%,,,,,,,,,,,,100%,0%,0%,0%,0%,2,0,False,True,True,False,4,5
+Organisationname,90.1%,99.99%,,,,,Frequent,,Long Values,Missing Values,,,,100%,0%,0%,0%,0%,"2,812",1,'The Practice @188',Zetland Medical Practice - Saltburn-By-The-Sea,'The Practice @188',The Surgery,4,96
+Address1,83.87%,97.99%,,,,,Frequent,,Long Values,Missing Values,,,,100%,5.08%,0%,0%,0%,"1,815",198,.,Zain Medical Centre,3,The Surgery,1,72
+Address2,65.01%,86.16%,,,,,Frequent,,Long Values,Missing Values,,,,100%,2.03%,0%,0%,0%,"1,125","1,363",",4 Newburn Road",Zachary Merton,281,London,3,55
+Address3,33.42%,85.61%,,,,,Frequent,,Long Values,Missing Values,,,,100%,0%,0%,0%,0%,451,"1,417",.,Youlgreave,(Off Downtown Road),London,1,40
+City,12.89%,81.83%,,,,,Frequent,,Long Values,Missing Values,,,,100%,0%,0%,0%,0%,247,"1,789",.,Yoxford,1 Oxford Terrace,London,1,34
+County,0.73%,16.56%,,,,,Frequent,,Long Values,,,,,100%,0%,0%,0%,0%,24,"8,216",Avon,Yorkshire(West Riding),Beds,England - Uk,4,22
+Postcode,88.59%,99.97%,,,,,Frequent,,,Missing Values,,,,100%,0%,0%,0%,0%,6,3,AL10 0BS,YO8 9NA,AL1 3HD,HU7 4DW,6,8
+Latitude,88.72%,99.97%,,,Rare Formats,,Frequent,Short Values,,Missing Values,,,High,0%,0%,100%,0%,0%,9,3,49.912635803222656,57.15997314453125,52.7265625,53.787399291992188,10,18
+Longitude,89.33%,99.97%,,,Rare Formats,,Frequent,Short Values,Long Values,Missing Values,"8,315 Values",Low,,0%,0%,100%,0%,0%,18,3,-7.1613578796386719,1.7551214694976807,-3.41650390625,-0.32142150402069092,14,23
+Parentodscode,2.14%,100%,,,,,Frequent,,,,,,,100%,0%,0%,0%,0%,1,0,00C,99Q,03V,99P,3,3
+Parentname,2.14%,100%,,,,,Frequent,,Long Values,,,,,100%,0%,0%,0%,0%,110,0,"NHS Airedale, Wharfedale And Craven CCG",NHS Wyre Forest CCG,NHS Corby CCG,"NHS Northern, Eastern And Western Devon CCG",12,54
+Phone,93.52%,98.81%,,,,,Frequent,Short Values,Long Values,Missing Values,,,,100%,100%,0%,0%,0%,88,117,.,Main Sugery,111,01204 463444,1,39
+Email,21.65%,24.62%,,,,,Frequent,Short Values,Long Values,,,,,100%,0%,0%,0%,0%,855,"7,423",999agmc@gmail.com,zubair.qureshi@nhs.net,999agmc@gmail.com,n/a,3,71
+Website,42.5%,48.93%,,,,,Frequent,,Long Values,,,,,100%,0%,0%,0%,0%,810,"5,029",48 Maddock Drive,wwww.fairmoremedicalpractice.co.uk,48 Maddock Drive,www.ssphealth.com,11,100
+Fax,83.49%,87.11%,,,,,Frequent,Short Values,Long Values,Missing Values,,,,100%,100%,0%,0%,0%,43,"1,269",-,N/A,1325,N/A,1,19
